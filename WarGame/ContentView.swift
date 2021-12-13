@@ -5,7 +5,7 @@
 //  Created by Cristina on 2021-12-01.
 //
 
-import SwiftUI
+import SwiftUI// gra w karty
 
 struct ContentView: View {
     
